@@ -75,12 +75,12 @@ export  default function Menu ()  {
 
         <ul className='mt-hidden sm:flex gap-6 md:gap-10 lg:gap-20 w-fit mx-auto'>
             <li className='bg-red-600 text-white p-1'>Appetizers</li>
-            <li>Breakfast</li>
-            <li>Slads</li>
-            <li>Soup</li>
-            <li>Meat&Fish</li>
-            <li>Desert</li>
-            <li>Drinks</li>
+            <li className='hover:bg-red-500'>Breakfast</li>
+            <li className='hover:bg-red-500'>Slads</li>
+            <li className='hover:bg-red-500'>Soup</li>
+            <li className='hover:bg-red-500'>Meat&Fish</li>
+            <li className='hover:bg-red-500'>Desert</li>
+            <li className='hover:bg-red-500'>Drinks</li>
         </ul>
 
         <div className='grid lg:grid-cols-[35%,1fr]  gap-10 pt-10'>

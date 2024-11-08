@@ -22,7 +22,7 @@ alt="hero image"
         </p>
 
 
-        <button className="bg-red-600 text-white px-6 py-4 roun ded-3xl text-[14px] sm:text-[16px]">
+        <button className="bg-red-600 text-white px-6 py-4 roun ded-3xl text-[14px] sm:text-[16px] hover:red-400">
             View More
             </button>
     </div>
